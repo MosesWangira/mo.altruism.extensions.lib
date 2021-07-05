@@ -80,3 +80,6 @@ Hide soft keyboard
 Activity.hideSoftKeyBoard() //In activity
 requireActivity.hideSoftKeyBoard() //In fragment
 ```
+
+## Geting help
+email - <a href ="">proudmoses@gmail.com</a>
