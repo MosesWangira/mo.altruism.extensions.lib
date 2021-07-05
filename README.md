@@ -69,6 +69,7 @@ View.snackBarAction("message, "actionMessage", context, textColor(Int), backgrou
 ```
 
 Change status bar color
+
 ```
 //In an activity
 changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
@@ -76,4 +77,12 @@ changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
 requireActivity().changeStatusBarColor("#FFFFFF")
 ```
 
+View visibility
+
+```
+//make it visible
+View.visible()
+//make it gone
+View.visible()
+```
 
