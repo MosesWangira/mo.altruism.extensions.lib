@@ -16,3 +16,12 @@ allprojects {
 	}
 }
 ```
+
+Add the dependency
+Current Version is v1.0.0 (Make sure to check if its the current version)
+
+```
+dependencies {
+    implementation 'com.github.MosesWangira:mo.altruism.extensions.lib:v1.0.0'
+}
+```
