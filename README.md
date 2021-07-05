@@ -27,7 +27,7 @@ dependencies {
 }
 ```
 
-###Using maven
+### Using maven
 Add the JitPack repository to your build file
 
 ```
