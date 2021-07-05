@@ -1,0 +1,3 @@
+rootProject.name = "mo.altruism.extensions"
+include ':app'
+include ':moaltrusimextensions'
