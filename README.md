@@ -51,6 +51,10 @@ dependency>
 
 ## How to use the library
 ### Views
+<ul>
+  <p>Toast</p>
+  <li>requireContext().toast("your message")</li>
+</ul>
 
 
 
