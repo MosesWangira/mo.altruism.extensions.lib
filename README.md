@@ -7,6 +7,7 @@ A library containing extensions commonly used in android
 
 ## Download 
 
+### Using gradle
 In your root build.gradle at the end of repositories add
 ```
 allprojects {
@@ -25,3 +26,26 @@ dependencies {
     implementation 'com.github.MosesWangira:mo.altruism.extensions.lib:v1.0.0'
 }
 ```
+
+###Using maven
+Add the JitPack repository to your build file
+
+```
+<repositories>
+	<repository>
+		<id>jitpack.io</id>
+		<url>https://jitpack.io</url>
+	</repository>
+</repositories>
+```
+
+Add the dependency
+
+```
+dependency>
+	<groupId>com.github.MosesWangira</groupId>
+	<artifactId>mo.altruism.extensions.lib</artifactId>
+	<version>v1.0.0</version>
+</dependency>
+```
+
