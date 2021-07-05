@@ -59,8 +59,7 @@ SnackBar
 ```
 View.snackBar("message")
 
-//snack bar with action message
-View.snackBarAction("message", "actionMessage")
+View.snackBarAction("message", "actionMessage") //snack bar with action message
 
 //int inside bracket means the value passed is an int
 View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) 
@@ -69,20 +68,15 @@ Change status bar color
 ```
 //In an activity
 changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
-//In a fragment
-requireActivity().changeStatusBarColor("#FFFFFF")
+requireActivity().changeStatusBarColor("#FFFFFF") //In a fragment
 ```
 View visibility
 ```
-//make it visible
-View.visible()
-//make it gone
-View.visible()
+View.visible() //make it visible
+View.visible() //make it gone
 ```
 Hide soft keyboard
 ```
-//In activity
-Activity.hideSoftKeyBoard()
-//In fragment
-requireActivity.hideSoftKeyBoard()
+Activity.hideSoftKeyBoard() //In activity
+requireActivity.hideSoftKeyBoard() //In fragment
 ```
