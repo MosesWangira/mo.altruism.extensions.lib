@@ -73,7 +73,7 @@ requireActivity().changeStatusBarColor("#FFFFFF") //In a fragment
 View visibility
 ```
 View.visible() //make it visible
-View.visible() //make it gone
+View.gone() //make it gone
 ```
 Hide soft keyboard
 ```
