@@ -1,4 +1,4 @@
-# UPDATE IN PROGRESS
+# Update in progress...
 [![](https://jitpack.io/v/MosesWangira/mo.altruism.extensions.lib.svg)](https://jitpack.io/#MosesWangira/mo.altruism.extensions.lib)
 
 
