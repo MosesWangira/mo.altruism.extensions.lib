@@ -60,8 +60,12 @@ requireContext().toast("your message")
 SnackBar 
 ```
 View.snackBar("message")
-View.snackBarAction("message", "actionMessage") //snack bar with action message
-View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) //int inside bracket means the value passed is an int
+
+//snack bar with action message
+View.snackBarAction("message", "actionMessage")
+
+//int inside bracket means the value passed is an int
+View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) 
 ```
 
 
