@@ -68,5 +68,12 @@ View.snackBarAction("message", "actionMessage")
 View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) 
 ```
 
+Change status bar color
+```
+//In an activity
+changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
+//In a fragment
+requireActivity().changeStatusBarColor("#FFFFFF")
+```
 
 
