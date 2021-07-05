@@ -3,3 +3,12 @@
 
 
 ## Description
+A library containing extensions commonly used in android
+
+## Download 
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
