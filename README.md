@@ -17,7 +17,7 @@ allprojects {
 }
 ```
 
-Add the dependency
+Add the dependency<br/>
 Current Version is v1.0.0 (Make sure to check if its the current version)
 
 ```
