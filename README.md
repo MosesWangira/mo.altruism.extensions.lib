@@ -78,7 +78,7 @@ View.visible() //make it gone
 Hide soft keyboard
 ```
 Activity.hideSoftKeyBoard() //In activity
-requireActivity.hideSoftKeyBoard() //In fragment
+requireActivity().hideSoftKeyBoard() //In fragment
 ```
 
 
