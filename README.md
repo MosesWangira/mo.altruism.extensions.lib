@@ -79,4 +79,10 @@ View.visible()
 //make it gone
 View.visible()
 ```
-
+Hide soft keyboard
+```
+//In activity
+Activity.hideSoftKeyBoard()
+//In fragment
+requireActivity.hideSoftKeyBoard()
+```
