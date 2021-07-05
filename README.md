@@ -55,8 +55,6 @@ Toast
 ```
 requireContext().toast("your message")
 ```
-
-
 SnackBar 
 ```
 View.snackBar("message")
@@ -67,18 +65,14 @@ View.snackBarAction("message", "actionMessage")
 //int inside bracket means the value passed is an int
 View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) 
 ```
-
 Change status bar color
-
 ```
 //In an activity
 changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
 //In a fragment
 requireActivity().changeStatusBarColor("#FFFFFF")
 ```
-
 View visibility
-
 ```
 //make it visible
 View.visible()
