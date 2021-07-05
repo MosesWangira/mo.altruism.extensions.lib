@@ -83,4 +83,4 @@ requireActivity.hideSoftKeyBoard() //In fragment
 
 
 ## Geting help
-email - <a href ="">proudmoses@gmail.com</a>
+Email - <a href ="">proudmoses@gmail.com</a>
