@@ -51,10 +51,10 @@ dependency>
 
 ## How to use the library
 ### Views
-Toast
-<ul>
-  <li>requireContext().toast("your message")</li>
-</ul>
+Toast - requireContext().toast("your message")
+SnackBar - View.snackBar("message")
+         - View.snackBarAction("message", "actionMessage") //snack bar with action message
+	 - View.snackBarAction("message, "actionMessage", context, textColor(Int), backgroundColor(Int)) //int inside bracket means the value passed is an int
 
 
 
