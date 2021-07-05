@@ -7,6 +7,7 @@ A library containing extensions commonly used in android
 
 ## Download 
 
+# In your root build.gradle at the end of repositories add
 ```
 allprojects {
  	repositories {
