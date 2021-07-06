@@ -67,7 +67,7 @@ View.snackBarAction("message, "actionMessage", context, textColor(Int), backgrou
 Change status bar color
 ```
 //In an activity
-changeStatusBarColor("#FFFFFF") //enter hexcode for your preffered color
+changeStatusBarColor("#FFFFFF") //enter hexcode for your preferred color
 requireActivity().changeStatusBarColor("#FFFFFF") //In a fragment
 ```
 View visibility
@@ -82,5 +82,5 @@ requireActivity().hideSoftKeyBoard() //In fragment
 ```
 
 
-## Geting help
+## Getting help
 Email - <a href ="">proudmoses@gmail.com</a>
